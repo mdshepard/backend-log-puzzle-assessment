@@ -1,2 +1,5 @@
 .vscode/
 *.pyc
+*.jpg
+*.jpeg
+puzzle.html
